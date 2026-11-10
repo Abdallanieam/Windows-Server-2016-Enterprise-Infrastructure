@@ -1,6 +1,6 @@
+<img width="1920" height="1022" alt="22" src="https://github.com/user-attachments/assets/d4e53986-b395-4152-bdbf-e2e704219866" />
 
 **Microsoft MCSA | Enterprise Network Infrastructure & Administration**
-<img width="1920" height="1022" alt="22" src="https://github.com/user-attachments/assets/d4e53986-b395-4152-bdbf-e2e704219866" />
 
 ---
 
