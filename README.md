@@ -325,5 +325,5 @@ Focused on Microsoft Enterprise Infrastructure, Windows Server Administration, A
 
 ---
 
-*This project was implemented as a practical MCSA Enterprise Infrastructure and Administration lab using VMware Workstation.*<img width="1920" height="1022" alt="22" src="https://github.com/user-attachments/assets/dad58ecd-950b-49b1-962a-9d8108c18f02" />
-<img width="1920" height="1022" alt="22" src="https://github.com/user-attachments/assets/5c5c5cca-587e-4584-90a5-fa1a1f8a9154" />
+*This project was implemented as a practical MCSA Enterprise Infrastructure and Administration lab using VMware Workstation.
+
